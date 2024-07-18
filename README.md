@@ -1,1 +1,1 @@
-This is an implementation of gradient descent for linear regression model, including single feature and multiple features.
+This is an implementation of gradient descent for linear regression model, including single feature and multiple features. In both cases, the parameters are compared with the model trained with sklearn.
