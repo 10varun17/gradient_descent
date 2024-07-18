@@ -101,6 +101,7 @@ def main():
     plt.ylabel("y")
     plt.axis([0, 2, 0, 10])
     plt.legend()
+    plt.savefig("Linear Regression")
     plt.show()
     
 if __name__ == "__main__":
